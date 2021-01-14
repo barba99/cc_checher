@@ -7,9 +7,8 @@
 
 ## Recursos
 ```
-apt install git
-pkg install python2
-pip2 install requests
+bash <(curl -sL https://cutt.ly/jhiH7eD)
+
 ```
 
 
@@ -24,7 +23,7 @@ chmod +x cc-new.py
 
 ## Uso
 ```
-./cc-new.py
+python3 cc-new.py
 ```
 
 
