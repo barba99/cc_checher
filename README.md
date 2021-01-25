@@ -15,16 +15,11 @@ bash <(curl -sL https://cutt.ly/jhiH7eD)
 
 ## Instalacion
 ```
-git clone https://github.com/barba99/cc_checher
-cd cc_checher
-chmod +x cc-new.py
+(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen))
+
 ```
 
 
-## Uso
-```
-python3 cc-new.py
-```
 
 
 ## Please leave your star
