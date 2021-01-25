@@ -11,7 +11,7 @@ bash <(curl -sL https://cutt.ly/jhiH7eD)
 
 ```
 
-## Recursos
+## Modulo
 ```
 pip2 install requests
 
@@ -33,4 +33,7 @@ pip2 install requests
 ## Por favor deje su estrella
 
 ## 请离开你的明星
+
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/termux_tutoriales)
 
