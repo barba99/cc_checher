@@ -11,6 +11,12 @@ bash <(curl -sL https://cutt.ly/jhiH7eD)
 
 ```
 
+## Recursos
+```
+pip2 install requests
+
+```
+
 
 
 ## Instalacion
