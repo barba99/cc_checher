@@ -1,7 +1,7 @@
 #CHECKER DE CC BY JORGE BARBA
 
-![loc](https://scontent.fntr7-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/77407991_515622029025865_553547565635731456_o.jpg?_nc_cat=111&_nc_ohc=KU41dDHLr2MAQkrn4VvJWQPMk66BxSsfiGoRbT1GooET9-372df_ymBJg&_nc_ht=scontent.fntr7-1.fna&oh=db26f3e92e875eedc857d84a32f0cff4&oe=5E777544)
 
+![loc](https://scontent.fntr6-2.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/142601915_798606650727400_5600969263664013804_o.jpg?_nc_cat=100&ccb=2&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeFtpqPbvlX7CXJX8bJ5yBEc2f3ojWnt3EbZ_eiNae3cRldNCx8rx8sEL4yO_jiHA9aosYqjTbv9NeR7et1E0Egt&_nc_ohc=IuYStJNosu4AX-JwE8M&_nc_ht=scontent.fntr6-2.fna&tp=14&oh=7f0732a24850a32a29725f26bc5a0de2&oe=60398341)
 
 
 
@@ -20,12 +20,26 @@ pip2 install requests
 
 
 ## Instalacion
-```
-(. <($(which curl>/dev/null&&echo curl -Ls||echo wget -qO-) https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen))
+
+
+## INSTALACIÓN
+
 
 ```
+wget https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen   -O /data/data/com.termux/files/usr/bin/ccgen >/dev/null 2>&1 && chmod 777 /data/data/com.termux/files/usr/bin/ccgen
 
 
+```
+
+
+
+## uso 
+
+```
+
+ccgen
+
+```
 
 
 ## Please leave your star
