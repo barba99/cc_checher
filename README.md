@@ -19,14 +19,15 @@ pip2 install requests
 
 
 
-## Instalacion
 
 
 ## INSTALACIÓN
 
 
 ```
-wget https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen   -O /data/data/com.termux/files/usr/bin/ccgen >/dev/null 2>&1 && chmod 777 /data/data/com.termux/files/usr/bin/ccgen
+
+wget https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen   -O /data/data/com.termux/files/usr/bin/ccgen >/dev/null 2>&1 
+chmod 777 /data/data/com.termux/files/usr/bin/ccgen
 
 
 ```
