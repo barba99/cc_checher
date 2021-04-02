@@ -5,17 +5,7 @@
 
 
 
-## Recursos
-```
-bash <(curl -sL https://cutt.ly/jhiH7eD)
 
-```
-
-## Modulo
-```
-pip2 install requests
-
-```
 
 
 
@@ -26,7 +16,8 @@ pip2 install requests
 
 ```
 
-bash <(curl -sL https://cutt.ly/Pkic4il)
+git clone https://github.com/barba99/cc_checher ;
+cd cc_checher ;
 
 ```
 
@@ -36,7 +27,7 @@ bash <(curl -sL https://cutt.ly/Pkic4il)
 
 ```
 
-ccgen
+python2 ccgen*
 
 ```
 
