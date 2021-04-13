@@ -5,6 +5,11 @@
 
 
 
+- [x] infobin
+- [x] Extrapolador
+- [x] Generador de cc
+- [x] Checker
+- [x] Generador de correo temporal
 
 
 
