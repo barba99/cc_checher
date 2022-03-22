@@ -20,8 +20,8 @@
 ```
 
 git clone https://github.com/barba99/cc_checher ;
-cd cc_checher ;
-
+cd cc_checher;
+python ccgen*
 ```
 
 
@@ -30,8 +30,7 @@ cd cc_checher ;
 
 ```
 
-python2 ccgen*
-
+python ccgen*
 ```
 
 
