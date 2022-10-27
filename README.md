@@ -33,12 +33,7 @@ python ccgen*
 python ccgen*
 ```
 
-
-## Please leave your star
-
-## Por favor deje su estrella
-
-## 请离开你的明星
+![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
 
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/termux_tutoriales)
