@@ -1,7 +1,5 @@
 **CHECKER DE CC BY JORGE BARBA**
 
-.github/workflows/visitor-counter.yml
-
 ![loc](https://scontent.fntr6-4.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/173433437_838907013364030_7823303348710074452_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeEzI_x57tVJY5e6pPOnkbZ6p4u0bDa56E6ni7RsNrnoTvKVX8a1JXdxAL6dFG0ZaEmIU_tNpeUuKzHIjZAtV8Tl&_nc_ohc=ezCdJpVgGUUAX966i9C&_nc_ht=scontent.fntr6-4.fna&tp=14&oh=f345ad4489e08eb924947f01df03b5b3&oe=609BACC9)
 
 - [x] infobin
